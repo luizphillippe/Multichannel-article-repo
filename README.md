@@ -16,7 +16,7 @@ The `.npz` and `.csv` files contain equivalent RAO data.
 
 ## Experimental grid
 
-Ten representative sea states from NDBC station 41002 were combined with six relative headings and two wave-phase realizations, giving 120 scenarios. The RAO grid contains 24 headings from \(0^\circ\) to \(345^\circ\) in \(15^\circ\) increments, spreading parameters \(s \in \{1,2,3,4,5\}\), and 30 frequencies from 0.0400 to 0.3333 Hz.
+Ten representative sea states from NDBC station 41002 were combined with six relative headings and two wave-phase realizations, giving $10 \times 6 \times 2 = 120$ scenarios. The RAO grid contains 24 headings from $0^\circ$ to $345^\circ$ in $15^\circ$ increments, spreading parameters $s \in {1,2,3,4,5}$, and 30 frequencies from 0.0400 to 0.3333 Hz.
 
 Measurement-noise cases and their random seeds are provided in the corresponding CSV files.
 
